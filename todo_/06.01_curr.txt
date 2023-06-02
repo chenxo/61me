@@ -1,0 +1,15 @@
+dsc2
+	making sandboxes in java, both intellij and quick progs with subl/terminal
+	copy/pasting code to run examples, generate test cases
+
+lec2
+
+lec7 (~lec3testing. Ok to skim and come back b4 proj1)
+
+lec3lists
+
+examdsc2
+
+proj0
+
+
