@@ -1,0 +1,28 @@
+https://sp24.datastructur.es/resources/guides/assignment-workflow/#opening-in-intellij
+
+For every assignment, navigate to “File –> Open -> labX”.
+for Lab 1, you would select the lab01 directory inside your sp24-s*** repo.
+
+
+Navigate to the “File -> Project Structure” menu, and make sure you are in 
+the Project tab. Set your project SDK to your installed Java version.
+[vp sp2021 uses 15]
+If 17 or higher isn’t available in the dropdown, make sure you downloaded 
+and installed Java completely.
+
+
+Still in the Project tab, set the Project Language Level to [vp sp2021 iuses 15] 
+“17 - Sealed types, always-strict floating-point semantics”.
+
+
+The Compiler output is filled in, and is set to the assignment directory, followed by out
+    ~/61me/lab2/out
+
+Still in Project Structure, go to the Libraries tab. Click the “+ -> Java” 
+button, then navigate to library-sp24, select the folder, and click “Ok”.
+Click “Ok” to apply your settings and leave Project Structure.
+
+
+At this point, if things have been configured correctly:
+    Each Java file should have a blue circle next to its name.
+    When you open any file, none of the code should be highlighted in red.
