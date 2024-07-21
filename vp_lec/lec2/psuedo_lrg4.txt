@@ -1,0 +1,81 @@
+part2 recurse structure______
+do i find anyone? go k elements down and search
+do i find noone? go (some # of elements down) and search
+	(some # can be as naive as 1, but it would be better to cache and search less)
+	(esp. if k is large. e.g. if k=8, and we fail on the 7th neighbor to the right,
+	we ought to go down s.t. (some # = 7))
+
+
+part1 return structure__________
+left to right implementation
+
+getting to last item, its in or out. we return an empty arr or a non-empty arr.
+if non-empty:
+	we return back to p0 (our parent)
+		p0 has an element
+			p0 must return a new array with our array elements copied to the end***
+		or it has nothing worth returning
+			p0 will return us
+if empty:
+	we return back to p0
+		p0 has an element
+			p0 must return itself[possibly empty, same as us]
+
+	>>> if p0 has nothing to return
+			return us (child 0 ::: c0)
+		if p0 has element (el0) to return
+			make an array the size of c0 + 1
+			put el0 in first index, and copy the array c0 returned.
+
+part0 correct implementation__________
+left to right implementation:
+keep k = k_0, i.e. k=4
+
+if k + j > k, 
+else, 
+
+largerthan3
+
+1 3 2 5 3  9 3 2 6 2 6 5 7
+
+*tracking curr seems like a workable start. go
+
+if curr - k_i invalid, 
+	k_i -= 1
+try again
+	if curr - k_i valid
+		check 
+
+*tracking num greater than or num_less than might be useful?
+	
+
+1 2 3 0 9 8 7 6 10 6 7 8 9
+
+6 < 10 -> num decr +=1 
+	//num decr = k? yes -> num_incr = 1
+					no -> skip to 
+
+5 1 9 8 7 6 5
+
+(1 9)
+
+1 < 9 -> num decr +=1 //1
+	//num decr = 4? 
+		no -> skip to ix + 
+
+5 1 9 300 400 
+
+
+
+_________
+count increases until incr = k or (ix = j and incr = j - 1 and j <= k)
+
+ex: ix 3, k = 4
+ex: ix = 2, k = 4
+ex: ix 4, k = 4
+
+1 5 1 9,	6 7 8, 	1 2 3 4 5
+
+if index to left or right is invalid:
+	return +1 or True or something (vacuously True for us ~)
+else: 

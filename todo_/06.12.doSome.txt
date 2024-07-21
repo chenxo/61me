@@ -1,0 +1,20 @@
+>>> below is a 2 week old todo. no progress has been made since the file was written.
+	i'd like to code some. i'd like to do some written problems. all the side observns n
+	reflections are great. but do some. it would be REALLY COOL to get towards gitlet.
+	it would be REALLY COOL to see what f23 61b projects are, and i guess i would like
+	to ask JHug some questions.
+dsc2
+	making sandboxes in java, both intellij and quick progs with subl/terminal
+	copy/pasting code to run examples, generate test cases
+
+lec2
+
+lec7 (~lec3testing. Ok to skim and come back b4 proj1)
+
+lec3lists
+
+examdsc2
+
+proj0
+
+
