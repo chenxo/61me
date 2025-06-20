@@ -1,0 +1,4 @@
+setting up intellij vim
+    asked gemini to mimic my vscode vim extension
+
+see 11_intellijVim.md
