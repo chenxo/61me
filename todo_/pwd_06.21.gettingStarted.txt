@@ -1,0 +1,88 @@
+completed 2/22......................................................................................
+    Lab 1 Setup (Setting Up Your Computer)
+    Lab 1 (IntelliJ, git)
+
+pwd 3/22............................................................................................
+    HW0 (Basic Java Programs)
+    Discussion 1 (Intro to Java)
+    Lecture 1 or Reading 1.1 (Intro, Hello World Java)
+
+todo 17/22..........................................................................................
+    Lecture 2 or Reading 1.2 (Defining and Using Classes)
+    Lecture 3 or Reading 2.1 (References, Recursion, and Lists)
+    Discussion 2 (Scope, Pass-by-Value, Static)
+    Project 0 (2048)
+    Lecture 4 or Reading 2.2 (SLLists, Nested Classes, Sentinel Nodes)
+    Lab 2 (Testind and Debugging)
+    Lecture 5 or Reading 2.3, 2.4 (LLists, Arrays)
+    Lecture 6 or Reading 2.5 (ALists, Resizing, vs. SLists)
+    Discussion 3 (Linked Lists, Arrays)
+    Project 1 (Data Structures)
+    Lecture 7 or Reading 3.1 (Testing)
+    Lab 3 (Randomized Testing and Timing Tests)
+    Lecture 8 or Reading 4.1 (Inheritance, Implements)
+    Lecture 9 or Reading 4.2 (Extends, Casting, Higher Order Functions)
+    Discussion 10 (Inheritance)
+    Lecture 10 or Reading 4.3 (Subtype Polymorphism vs. HoFs)
+    Lab 4: Peer Code Review (Berkeley students only)
+    Lecture 11 or Reading 6.1, 6.2, 6.3, 6.4 (Exceptions, Iterators, Object Methods)
+
+
+
+copy of getting started guide items................................................................. 
+HW0 (Basic Java Programs)
+Discussion 1 (Intro to Java)
+Lecture 1 or Reading 1.1 (Intro, Hello World Java)
+Lab 1 Setup (Setting Up Your Computer)
+Lab 1 (IntelliJ, git)
+Lecture 2 or Reading 1.2 (Defining and Using Classes)
+Lecture 3 or Reading 2.1 (References, Recursion, and Lists)
+Discussion 2 (Scope, Pass-by-Value, Static)
+Project 0 (2048)
+Lecture 4 or Reading 2.2 (SLLists, Nested Classes, Sentinel Nodes)
+Lab 2 (Testind and Debugging)
+Lecture 5 or Reading 2.3, 2.4 (LLists, Arrays)
+Lecture 6 or Reading 2.5 (ALists, Resizing, vs. SLists)
+Discussion 3 (Linked Lists, Arrays)
+Project 1 (Data Structures)
+Lecture 7 or Reading 3.1 (Testing)
+Lab 3 (Randomized Testing and Timing Tests)
+Lecture 8 or Reading 4.1 (Inheritance, Implements)
+Lecture 9 or Reading 4.2 (Extends, Casting, Higher Order Functions)
+Discussion 10 (Inheritance)
+Lecture 10 or Reading 4.3 (Subtype Polymorphism vs. HoFs)
+Lab 4: Peer Code Review (Berkeley students only)
+Lecture 11 or Reading 6.1, 6.2, 6.3, 6.4 (Exceptions, Iterators, Object Methods)
+
+
+
+getting started order...............................................................................
+wk w0-w2
+
+w0 weds lec, w0 lab,  w0 fri lec
+
+**w1 mon lec, w1 disc, [proj if starting or due]
+    w1 weds lec, w1 lab, w1 fri lec
+
+**w2 mon lec, w2 disc, [proj if starting or due]
+    w2 weds lec, w2 lab, w2 fri lec
+
+continuance from wk4 last assignment (lecture 11)...................................................
+[wk4 fri lec: lec 11]
+wk5 mon lec: NO LEC
+wk5 disc: disc 11 (polymorphism, iterators, and iterables)
+wk5 proj 1 due, proj2 begin?
+wk5 weds lec: lec 12
+
+[wk5 fri lec: lec 13]
+wk6 mon lec: lec 14
+wk6 disc: disc 12
+wk6 proj 2
+wk6 weds lec: lec 15
+
+[wk6 fri lec: lec16]
+.
+.
+.
+
+

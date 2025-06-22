@@ -1,0 +1,59 @@
+https://sp21.datastructur.es/materials/guides/getting-started
+
+lab1
+
+
+lab2 debugging, proj0
+    lec 1/2/3/4/5    dsc intro2java
+
+
+lab3 randomizing testing
+    lec 6/7/8    dsc scope, static, linked lists
+
+
+lab4 git&debugging, proj1
+    lec 9/10/11    dsc inheritance and implements
+
+
+lab5 peerCodeReview[skip]
+    lec 12/13    dsc polymorphism, iterators, and iterables
+
+
+lab6 project 2 getting started
+    lec 14/15/16    dsc disjoint sets and asymptotics
+
+
+lab7 bstmap, proj2
+    lec 17/18/19    dsc adts and asymptotics 2
+
+
+lab8 hashmap, proj2
+    lec 20,21,22    dsc b-trees, red black trees, hashing
+
+
+lab9 proj2 workday, proj2
+    lec 23,24,25    dsc heaps and graphs
+
+
+lab10 spring break
+
+
+lab11 proj2 workday, proj2
+    lec 26/27/28    dsc shortest paths and msts
+
+
+lab12 get started on proj3 [?skip?]
+    lec 29/30/31    dsc more graphs and tires
+
+
+lab13 interactivity on proj3 [?skip?], proj3
+    lec 32/33/34    dsc basic sorts
+
+
+lab14 proj3 workday, proj3[?skip?]
+    lec 35/36/37    dsc more sorting
+
+
+lab15 proj3
+
+    
