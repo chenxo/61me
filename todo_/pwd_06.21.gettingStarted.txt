@@ -1,13 +1,11 @@
 completed 2/22......................................................................................
     Lab 1 Setup (Setting Up Your Computer)
     Lab 1 (IntelliJ, git)
-.
-.
     Lecture 1 or Reading 1.1 (Intro, Hello World Java)
+    HW0 (Basic Java Programs)
 
 pwd 3/22............................................................................................
-    HW0 (Basic Java Programs)
-    Discussion 1 (Intro to Java)
+>>> Discussion 1 (Intro to Java) >>> fib2 implementation
 
 todo 17/22..........................................................................................
     Lecture 2 or Reading 1.2 (Defining and Using Classes)
