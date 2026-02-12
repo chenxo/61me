@@ -4,15 +4,17 @@ public class CheckLabConfig {
 	public static void checkConfig(boolean isWindows) {
 		String repoVariableName = "REPO_DIR";
 		String repoDir = System.getenv(repoVariableName);
+		// System.out.println("001 vp vp vp");
 		checkVariableNotNull(repoDir, repoVariableName);
 		System.out.println("Validating your " + repoVariableName + 
 			               " environment variable, which is currently set to: " +
 			               repoDir);
+		// System.out.println("03 vp vp vp");
 		checkIsValidRepo(repoDir, repoVariableName, isWindows, false);
 
 		String snapsVariableName = "SNAPS_DIR";
 		String snapsRepoDir = System.getenv(snapsVariableName);
-
+		// System.out.println("05 vp vp vp");
 		checkVariableNotNull(snapsRepoDir, snapsVariableName);
 		System.out.println("Validating your " + snapsVariableName + 
 			               " environment variable, which is currently set to: " +
