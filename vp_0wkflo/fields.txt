@@ -1,0 +1,4 @@
+assignment_name
+assignment_due_date
+week_assigned
+assignment_type
