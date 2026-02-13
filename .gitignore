@@ -1,5 +1,11 @@
 *
 !*/
+# vporras 02/12/2026 adding lines for my other files. if any problems
+# with autograder or other, i might have to clean the repo.
+# a 'fresh start' wouldnt be the end of the world (begin 61b all over again)
+!**.py
+!**.csv
+#just .py and .csv for now
 !**.java
 !**.txt
 !**.json
