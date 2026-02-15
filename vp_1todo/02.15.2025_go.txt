@@ -1,0 +1,16 @@
+if i work on 61b and complete the assignments
+    ill be prepared for a few things i find valuable
+        compilers, systems (concurrency via brown cs300, cs161/162)
+            c programming (for the above)
+
+        java, dsalgos
+
+i have mooc.fi java course open as well
+    might just download the netbeans and dig into it
+        an almost parallel view, perhaps some nice variety of view and implementation
+
+starting with schedule of assignments
+    based on weekAssigned subgroup sort first
+        then i have the subgroups sotred by dueDate if i get stuck or could use a different order
+
+
