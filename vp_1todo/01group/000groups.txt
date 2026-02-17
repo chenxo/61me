@@ -1,0 +1,29 @@
+10 groups, by construction
+    finishing a group is 10% progress, NAIVELY
+        start: just get group 1 done now!
+
+    log groups: completed, current, remaining (stored in raw lists already)
+----------------------------------------------------------------------------------------------------
+SKIP THIS IF DISTRACTING
+        this might be less naively than i previously considered
+            the 10% marker was on:
+                every due date, as a raw integer
+                    but i did not include the date assigned
+
+                in the edge case, imagine 90% of a grade was a final project
+                    it might be the last 10% by this measure of due dates as integers
+                        but its again, perhaps 90% of the material/point of the course
+
+        the first idea that occurs to me again, is to weight assignments by expected workdays
+            ex. an assignment that is expected to be finished in 3 days vs 20 days
+                perhaps tho, consider how the due date itself might account for this?
+----------------------------------------------------------------------------------------------------
+conclusion of the above:
+    add assigned date to the log
+        compute percentile of workload
+            weight_kth_assignment = assigned_days_k / assigned_days_total
+                where assigned_days_total = sum(assigned_days_k) for all k
+
+    do this after completing group 1 ffs
+                    
+

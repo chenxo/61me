@@ -1,0 +1,12 @@
+first,second,3rd,fourth,fifth
+lab1,lab2,proj0,dsc2,
+
+    lab2,proj0,lab3,proj1_checkpoint,dsc3
+    lab3,proj1_checkpoint,midterm1,dsc4,dsc5
+    proj1,lab4,lab5,dsc5,
+    lab5,lab6,dsc6,dsc7,
+    lab7,dsc7,lab8,proj2_checkpoint,dsc8
+    hw2,lab8,proj2_checkpoint,dsc9,
+    proj2,hw2,midterm2,dsc9,dsc11
+    proj2,lab12,dsc12,dsc13,
+    lab13,dsc13,dsc14,hw3,
