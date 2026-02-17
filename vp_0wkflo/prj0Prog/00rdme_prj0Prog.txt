@@ -1,0 +1,20 @@
+moving from static views
+    list of assignments, with metadata needed to progress
+
+to some interactive possibilities
+    run group
+        run group1 : what happens? am i prompted by questions?
+            am i given suggested actions?
+            
+            can i have some choices, perhaps some visuals or a light slideshow even?
+                terminal views, open a powerpoint (or 1 click away from opening a powerpoint)
+
+    reset course
+        reset group?
+            maybe reset group with versioning
+        
+        i think reset course would be on the outside of this....
+            interesting what level CAN I reset course...
+
+            right now its basically fork the repo from the top again in another dir
+                or on another machine, etc
