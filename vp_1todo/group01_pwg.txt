@@ -1,8 +1,8 @@
-lab1,
-    lab2,proj0,dsc2, weekAssigned
+lab1,lab2
+    proj0,dsc2, weekAssigned
    
-    dsc2,lab2,proj0, dueDate
+    dsc2,proj0, dueDate
 
 completed (or skipped l0l)
-    lab1
+    lab1,lab2
 
