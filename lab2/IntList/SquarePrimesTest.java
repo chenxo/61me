@@ -17,4 +17,35 @@ public class SquarePrimesTest {
         assertEquals("14 -> 15 -> 16 -> 289 -> 18", lst.toString());
         assertTrue(changed);
     }
+
+    /** vptest1
+     * Here is a test for isPrime method. all primes. Try running it. */
+    @Test
+    public void vpTestSqprimes1() {
+        IntList lst = IntList.of(7, 17, 13);
+        boolean changed = IntListExercises.squarePrimes(lst);
+        assertEquals("49 -> 289 -> 169", lst.toString());
+        assertTrue(changed);
+    }
+
+    /** vptest2
+     * Here is a test for isPrime method. all composites. Try running it. */
+    @Test
+    public void vpTestSqprimes2() {
+        IntList lst = IntList.of(4,6,8,16);
+        boolean changed = IntListExercises.squarePrimes(lst);
+        assertEquals("4 -> 6 -> 8 -> 16", lst.toString());
+        assertFalse(changed);
+    }
+
+    /** vptest3
+     * Here is a test for isPrime method. last element prime. Try running it. */
+    @Test
+    public void vpTestSqprimes3() {
+        IntList lst = IntList.of(14, 15, 16, 17);
+        boolean changed = IntListExercises.squarePrimes(lst);
+        assertEquals("14 -> 15 -> 16 -> 289", lst.toString());
+        assertTrue(changed);
+    }
+
 }
