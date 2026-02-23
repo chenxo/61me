@@ -1,0 +1,19 @@
+1 public static int mystery(int[] inputArray, int k) {
+2 int x = inputArray[k];
+3 int answer = k;
+4 int index = k + 1;
+5 while (index < inputArray.length) {
+6 if (inputArray[index] < x) {
+7 x = inputArray[index];
+8 answer = index;
+9 }
+10 index = index + 1;
+11 }
+12 return answer;
+13 }
+
+
+This is a function (a.k.a. method). It takes an array of integers and an integer as
+arguments, and returns an integer.
+(a) Describe what mystery returns if inputArray = [3, 0, 4, 6, 3] and k = 2.
+(b) Can you explain in plain English what mystery does?

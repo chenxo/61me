@@ -1,0 +1,23 @@
+consider giving gemini the solution file
+    then when i ask it to add comments, it has the solution
+
+consider NOT giving gemini/other llm the soln
+    see what it comes up with
+        compare to output when it (or another llm) IS GIVEN SOLN
+        
+        compare quality and "addition factor"
+            does variety of outputs contribute to richness, or is it a waste
+
+----------------------------------------------------------------------------------------------------
+starting to overengineer, anyways
+    git sum shit, make it reviewable/editable/resettable
+        have a nice view/review thing
+
+        have forward pointers, where its forward compatible
+            when reviewing other things, when this material is relevant
+
+    slight modifications can makea big difference
+        keep the main thing the main thing
+            trying to overengineer and complicate for little to no ROI
+
+
