@@ -1,7 +1,8 @@
 first,second,3rd,fourth,fifth
 dsc2,lab1,lab2,proj0,
 
-    lab2,proj0,dsc3,lab3,proj1_checkpoint
+lab2,proj0,dsc3,lab3,proj1_checkpoint
+    
     lab3,proj1_checkpoint,dsc4,midterm1,dsc5
     dsc5,lab4,proj1,lab5,
     lab5,dsc6,lab6,dsc7,

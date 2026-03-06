@@ -1,0 +1,8 @@
+lab2,proj0,
+
+    lab3,proj1_checkpoint,dsc3, wkassigned
+
+    dsc3,lab3,proj1_checkpoint, dueDate
+
+completed or skipped
+    lab2,proj0,
