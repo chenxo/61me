@@ -1,0 +1,13 @@
+helpers, static methods, and writing readable and object oriented code leading to 'cardinal sins' in the eyes of optimal code
+    creating too many temporary variables, too many little functions that will open function calls if 1 function is called
+        side note; all these little points of trust 
+            tradeoff when debugging; more points of contact, but also easier to track down where exactly a failure occured
+            
+            also potential redundancy
+                not really if the code is well written... more so an issue for humans to write in extra redundancy
+
+having said that, trusting the compiler might optimize this away anyways
+    but not to overly trust the compiler
+        and in many cases, for safety/performance guarantees, you better freaking know what the compilers doing
+            
+    machine translation guarantees o.O
