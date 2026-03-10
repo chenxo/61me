@@ -1,0 +1,7 @@
+ * (a) Write what would be printed after the main method is executed
+----------------------------------------------------------------------------------------------------
+ * (b) On line 28, we set level equal to 50. What level do we mean? An instance variable of the
+Pokemon class? The local variable containing the parameter to the change method? The local
+variable in the main method? Something else?
+----------------------------------------------------------------------------------------------------
+ (c) If we were to call Pokemon.printStats() at the end of our main method, what would happen? */
